@@ -1,6 +1,9 @@
 function mostrar()
+edad=parseInt(document.getelementById(`edad´).value);
+
+if(edad==15)
 {
-//tomo la edad  
+alert("niña bonita") 
 
 
 
